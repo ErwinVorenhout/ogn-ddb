@@ -65,7 +65,7 @@ $languages['dutch'] = array (
     "create_account" => "Maak een account aan",
     "my_devices" => "Mijn devices",
     "add_device" => "Device toevoegen",
-    "change_password" => "Change password",
+    "change_password" => "Wachtwoord wijzigen",
     "full_participation" => "Volledig deelnemen",
     "full_participation_description" => "<ul>
         <li>Tracking applicaties die de OGN DDB gebruiken, geven de positie weer met vliegtuig identificatie</li>
